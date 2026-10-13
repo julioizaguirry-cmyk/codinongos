@@ -1,0 +1,12 @@
+{
+  "name": "codinongos-lan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor da rede local do CODINONGOS",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
